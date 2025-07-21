@@ -4,3 +4,5 @@ tf-gpu
 data_processed/
 gradcam_outputs/
 gradcam_results/
+*.png
+*.h5
